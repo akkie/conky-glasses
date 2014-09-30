@@ -1,4 +1,4 @@
-Concy Glasses
+Conky Glasses
 =============
 
 Conky configuration for my current desktop.
